@@ -12,5 +12,4 @@
 - mini golfing
 
 ### Beaches
-- East Coast
-- West Coast
+- Cape Canaveral rocks!
