@@ -14,3 +14,4 @@
 
 ### Beaches
 - Cape Canaveral rocks!
+- Cocoa Beach
