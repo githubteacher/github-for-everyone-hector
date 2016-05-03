@@ -1,13 +1,16 @@
 # Orlando, FL
 
 ### Restaurants
-- add some restaurants?
+- Rocco's Tacos
+- Pharmacy
 
 ### Theme Parks
 - Disney World
 - Universal Orlando
 
 ### Local Hangouts
-- think on some hangouts
+- mini golfing
 
 ### Beaches
+- East Coast
+- West Coast
