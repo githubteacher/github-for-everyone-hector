@@ -13,6 +13,8 @@
 - Orlando Eye
 - Millenia Mall
 - Town of Celebration
+- Florida Everglades
+- Gatorland
 
 ### Beaches
 - Cape Canaveral rocks!
