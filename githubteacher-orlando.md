@@ -11,6 +11,8 @@
 ### Local Hangouts
 - Captain Blackbeard's mini golfing
 - Orlando Eye
+- Florida Everglades
+- Gatorland
 
 ### Beaches
 - Cape Canaveral rocks!
