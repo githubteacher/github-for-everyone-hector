@@ -10,6 +10,7 @@
 
 ### Local Hangouts
 - Captain Blackbeard's mini golfing
+- Orlando Eye
 
 ### Beaches
 - Cape Canaveral rocks!
