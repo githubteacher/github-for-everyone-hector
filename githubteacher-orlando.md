@@ -9,7 +9,9 @@
 - Universal Orlando
 
 ### Local Hangouts
-- mini golfing
+- Captain Blackbeard's mini golfing
+- Orlando Eye
 
 ### Beaches
 - Cape Canaveral rocks!
+- Cocoa Beach
