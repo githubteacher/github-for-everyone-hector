@@ -9,7 +9,7 @@
 - Universal Orlando
 
 ### Local Hangouts
-- mini golfing
+- Captain Blackbeard's mini golfing
 
 ### Beaches
 - Cape Canaveral rocks!
