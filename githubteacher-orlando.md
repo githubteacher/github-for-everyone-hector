@@ -11,6 +11,8 @@
 ### Local Hangouts
 - Captain Blackbeard's mini golfing
 - Orlando Eye
+- Millenia Mall
+- Town of Celebration
 
 ### Beaches
 - Cape Canaveral rocks!
