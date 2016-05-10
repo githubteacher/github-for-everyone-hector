@@ -20,6 +20,7 @@
 - a non-conflict
 - edit 3
 - edit 4 with conflict
+- same general area
 
 ### Beaches
 - Cape Canaveral rocks!
